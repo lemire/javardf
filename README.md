@@ -63,6 +63,4 @@ Lorsque vous exécutez l'application avec ces fichiers d'exemple, la sortie cons
 ------------------------------------
 ```
 
-Ce format provient de l'utilisation de `ResultSetFormatter` d'Apache Jena ; d'autres formats (CSV, TSV, JSON) peuvent être proposés selon les besoins.
 
-L
